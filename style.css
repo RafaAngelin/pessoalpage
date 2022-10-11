@@ -85,6 +85,8 @@ div.box {
 }
 
 footer {
+  bottom: 0;
+  position: fixed;
   color: white;
   padding: 20px;
   text-align: center;
