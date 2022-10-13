@@ -56,12 +56,14 @@ div.box {
 .leftcolumn {
   float: left;
   width: 75%;
+  padding-left: 20px;
 }
 
 .rightcolumn {
   float: left;
   width: 25%;
   padding-left: 20px;
+  padding-right: 20px;
 }
 
 .fakeimg {
@@ -85,10 +87,10 @@ div.box {
 }
 
 footer {
-  color: white;
-  padding: 20px;
   text-align: center;
+  color: white;
   background-color: black;
+  padding: 20px;
   margin-top: 20px;
 }
 
