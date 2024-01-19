@@ -28,7 +28,7 @@
   </p>
   
   <h2>Atuação</h2>
-  Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
+  Professor de ensino médio no curso Técnido em Desenvolvimento de Sistemas. SEED - PR
   
   <hr>
   
