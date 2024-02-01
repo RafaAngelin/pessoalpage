@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-      <img src="https://raw.githubusercontent.com/RafaAngelin/pessoalpage/main/perfil.jpg" alt="Rafael Angelin" width="200" style="border-radius: 50%;">
+      <img src="https://raw.githubusercontent.com/RafaAngelin/pessoalpage/main/perfil.jpg" alt="Rafael Angelin" width="200">
     <br>
     <br>
   Rafael Angelin
