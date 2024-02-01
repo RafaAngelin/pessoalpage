@@ -1,11 +1,8 @@
 <h1 align="center">
     <br>
-      <img src="https://raw.githubusercontent.com/RafaAngelin/pessoalpage/main/perfil.jpg" alt="Rafael Angelin" width="200">
     <br>
-    <br>
-  Rafael Angelin
-  
-  </h1>
+    Rafael Angelin
+    </h1>
   <p align="center">
     <a href="https://github.com/RafaAngelin">
       <img src="https://img.shields.io/badge/Follow-My%20Page-blue" alt="page">
