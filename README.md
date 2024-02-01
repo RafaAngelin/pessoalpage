@@ -1,7 +1,6 @@
 <h1 align="center">
-    <br>
     Rafael Angelin
-    </h1>
+</h1>
   <p align="center">
     <a href="https://github.com/RafaAngelin">
       <img src="https://img.shields.io/badge/Follow-My%20Page-blue" alt="page">
