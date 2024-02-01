@@ -1,8 +1,5 @@
 <h1 align="center">
     <br>
-    <img src="https://raw.githubusercontent.com/RafaAngelin/pessoalpage/main/perfil.jpg" alt="Rafael Angelin" width="200">
-    <br>
-    <br>
     Rafael Angelin
     </h1>
   <p align="center">
