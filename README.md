@@ -25,7 +25,7 @@
   </p>
   
   <h2>Atuação</h2>
-  Professor no curso Técnido em Desenvolvimento de Sistemas da SEED-PR
+  Professor no Curso Técnido em Desenvolvimento de Sistemas da SEED-PR
   
   <hr>
   
